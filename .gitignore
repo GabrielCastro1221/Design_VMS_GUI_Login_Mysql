@@ -1,0 +1,10 @@
+build/
+imgui.ini
+.vscode/
+.env
+run_app.txt
+external/
+test_db
+documentation/
+assets/
+libbcrypt/
